@@ -1,23 +1,20 @@
 # Markdown & Git
 
 *Name*          Angelina
+
 *Second Name*   Bolgar
 	
 ## Contacts
 
-Phone: +375 (29) 502-09-22
-
-Mail: angelinabolgar@gmail.com
-
-Telegram: @SoftSpacePaws
-
-VK: https://vk.com/last.unicorn
-
-Discord: VeloyStix
+>Phone: +375 (29) 502-09-22
+>Mail: angelinabolgar@gmail.com
+>Telegram: @SoftSpacePaws
+>VK: https://vk.com/last.unicorn
+>Discord: VeloyStix
 
 ## Summary
 
-I believe that I can be a great front-end developer. I have a passion for programming, which has not been extinguished over the years, and a love of web design, so frontend is my choice in web programming. I put a lot of effort into learning the basics of programming, and now I'm ready to put even more effort into becoming a good developer. I have a desire to learn and I will look for any opportunity to learn and apply new knowledge. I hope your team will help me in this long journey.
+I believe that I can be a great front-end developer. I have a passion for programming and a love of web design, so frontend is my choice in web programming. I have a desire to learn and I will look for any opportunity to learn and apply new knowledge. I hope your team will help me in this journey.
 
 ## Skills
 
