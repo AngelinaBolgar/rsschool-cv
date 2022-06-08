@@ -1,15 +1,19 @@
 # Markdown & Git
 
-*Name*          Angelina
+*Name:* Angelina
 
-*Second Name*   Bolgar
+*Second Name:* Bolgar
 	
 ## Contacts
 
 >Phone: +375 (29) 502-09-22
+
 >Mail: angelinabolgar@gmail.com
+
 >Telegram: @SoftSpacePaws
+
 >VK: https://vk.com/last.unicorn
+
 >Discord: VeloyStix
 
 ## Summary
