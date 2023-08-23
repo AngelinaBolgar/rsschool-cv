@@ -1,1 +1,1 @@
- https://AngelinaBolgar.github.io/rsschool-cv/cv
+https://angelinabolgar.github.io/rsschool-cv/
